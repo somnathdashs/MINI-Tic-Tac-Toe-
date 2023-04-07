@@ -1,5 +1,5 @@
 # Tic-tac-toe Minimax
-An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. Try it: [Tic-tac-toe - Minimax](https://somnathdashs.github.io/TicAI/)
+An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. Try it: [Tic-tac-toe - Live Play](https://somnathdashs.github.io/TicAI/)
 
 <p align="center">
 	<img src="preview/minimax_img.png?raw=true"></img>
