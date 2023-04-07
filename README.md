@@ -17,7 +17,7 @@ The algorithm search, recursively, the best move that leads the *Max* player to 
 
 ## Understanding the Algorithm
 The algorithm was studied by the book Algorithms in a Nutshell (George Heineman; Gary Pollice; Stanley Selkow, 2009). Pseudocode (adapted):
-
+ 
 ```
 minimax(state, depth, player)
 
