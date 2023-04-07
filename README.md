@@ -1,7 +1,7 @@
 # Tic-tac-toe Minimax
 An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. Try it: [Tic-tac-toe - Live Play](https://somnathdashs.github.io/TicAI/)
 
-![Game]("https://raw.githubusercontent.com/somnathdashs/MINI-Tic-Tac-Toe-/main/preview/minimax_img.png")
+![Game](https://raw.githubusercontent.com/somnathdashs/MINI-Tic-Tac-Toe-/main/preview/minimax_img.png)
 
 
 ## Introduction
@@ -154,14 +154,14 @@ def minimax(state, depth, player):
 Below, the best move is on the middle because the max value is on 2nd node on left.
 
 
-![Game]("https://raw.githubusercontent.com/somnathdashs/MINI-Tic-Tac-Toe-/main/preview/tic-tac-toe-minimax-game-tree.png")
+![Game Tree](https://raw.githubusercontent.com/somnathdashs/MINI-Tic-Tac-Toe-/main/preview/tic-tac-toe-minimax-game-tree.png)
 
 
 Take a look that the depth is equal the valid moves on the board. The complete code is available in **py_version/**.
 
 Simplified game tree:
 
-![Game]("https://raw.githubusercontent.com/somnathdashs/MINI-Tic-Tac-Toe-/main/preview/simplified-g-tree.png")
+![Game Tree](https://raw.githubusercontent.com/somnathdashs/MINI-Tic-Tac-Toe-/main/preview/simplified-g-tree.png)
 
 
 That tree has 11 nodes. The full game tree has 549.946 nodes! You can test it putting a static global variable in your program and incrementing it for each minimax function call per turn.
