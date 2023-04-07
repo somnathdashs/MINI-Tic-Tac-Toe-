@@ -148,7 +148,7 @@ def minimax(state, depth, player):
 				best = score
 
 	return best
-```
+ ```
 
 ## Game Tree
 Below, the best move is on the middle because the max value is on 2nd node on left.
